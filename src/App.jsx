@@ -1,12 +1,13 @@
+import Body from "./components/Body";
 
 
 function App() {
 
   return (
     <>
-      <h1 className="font-bold bg-green-600">Hello world</h1>
+      <Body />
     </>
   )
 }
 
-export default App
+export default App;
