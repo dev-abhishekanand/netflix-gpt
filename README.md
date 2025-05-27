@@ -2,8 +2,10 @@
 
 vite bundler
 Tailwind configured
+Header
+LoginForm
 
- <!-- Features -->
+#Features
 
 login/sign-up
 -signIn/signUp form
@@ -15,5 +17,12 @@ login/sign-up
 -trailer in bg
 
 -title and description
-movie Suggestions
+
+<!-- movie Suggestions -->
+
 movieList
+
+<!-- NetflixGPT -->
+
+- searchBar
+  -Movie Suggestions
